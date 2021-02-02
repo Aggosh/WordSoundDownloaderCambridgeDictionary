@@ -11,6 +11,7 @@ Install requirements:
 ```
 python3 main.py <additional command>
 ```
+### Additional commands
 ```
 <YELP_API_KEY> - api key from https://www.yelp.com/developers/documentation/v3/authentication
 ```

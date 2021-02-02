@@ -1,4 +1,4 @@
-This programm can download sound from https://dictionary.cambridge.org/
+This program can download sound from https://dictionary.cambridge.org/
 
 ### Setup
 

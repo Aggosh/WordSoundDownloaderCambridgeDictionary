@@ -16,7 +16,7 @@ python3 main.py <additional command>
 -h - help
 ```
 ```
--w or --word - search word ("Cat")
+-w or --word - search word (Cat)
 ```
 If word not selected, words will come from file word_list.txt (in the folder where main.py is located). In word_list.txt write words separated by commas (cat, dog, man)
 ```
